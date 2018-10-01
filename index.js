@@ -32,7 +32,7 @@ function dec(n) {
 
 var number;
 function makeInt(n) {
-  number = parseInt('n',10);
+  number = parseInt('NaN',10);
   return number;
 }
 var number;
