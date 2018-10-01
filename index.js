@@ -32,7 +32,7 @@ function dec(n) {
 
 var number;
 function makeInt(n) {
-  number = parseInt('NaN',10);
+  number = parseInt('n',10);
   return number;
 }
 var number;
@@ -40,4 +40,3 @@ function preserveDecimal(n) {
   number = parseFloat('n');
   return number;
 }
-
