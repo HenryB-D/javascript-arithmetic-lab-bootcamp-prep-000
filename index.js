@@ -32,12 +32,12 @@ function dec(n) {
 
 var number;
 function makeInt(n) {
-  number = parseInt('n',10)
-  console.log (number)
+  number = parseInt('n',10);
+  return number;
 }
 var number;
 function preserveDecimal(n) {
-  number = parseFloat('n')
-  console.log (number)
+  number = parseFloat('n');
+  return number;
 }
 
