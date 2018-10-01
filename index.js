@@ -32,7 +32,7 @@ function dec(n) {
 
 var number;
 function makeInt(n) {
-  number = parseInt()
+  number = parseInt('n',10)
   console.log (number)
 }
 var number;
